@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/asus/100%20days%20Data%20Science/Mlops/Experiment-Tracking-Using-Mlflow/mlruns/299533365802943769/483b893906e2416e8818908724b6c6db/artifacts
+end_time: 1759740555337
+entry_point_name: ''
+experiment_id: '299533365802943769'
+lifecycle_stage: active
+run_id: 483b893906e2416e8818908724b6c6db
+run_name: nervous-squirrel-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759740555226
+status: 3
+tags: []
+user_id: asus

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/asus/100%20days%20Data%20Science/Mlops/Experiment-Tracking-Using-Mlflow/mlruns/299533365802943769/models/m-ac3f19f4b9f847aa947ae9ddb084b10e/artifacts
+creation_timestamp: 1759740557084
+experiment_id: '299533365802943769'
+last_updated_timestamp: 1759740570217
+model_id: m-ac3f19f4b9f847aa947ae9ddb084b10e
+model_type: null
+name: random_forest
+source_run_id: 04e5259373394d2ba341685f89bc3556
+status: 2
+status_message: null

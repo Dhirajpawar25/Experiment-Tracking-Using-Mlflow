@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/asus/100%20days%20Data%20Science/Mlops/Experiment-Tracking-Using-Mlflow/mlruns/299533365802943769/73f0182e1ef84708a52ab87e86afa288/artifacts
+end_time: 1759740555617
+entry_point_name: ''
+experiment_id: '299533365802943769'
+lifecycle_stage: active
+run_id: 73f0182e1ef84708a52ab87e86afa288
+run_name: efficient-sponge-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759740555504
+status: 3
+tags: []
+user_id: asus

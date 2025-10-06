@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/asus/100%20days%20Data%20Science/Mlops/Experiment-Tracking-Using-Mlflow/mlruns/586734427151996030/models/m-9fb2734bf61c46fd813cdf940ad864e6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.4.0
+model_id: m-9fb2734bf61c46fd813cdf940ad864e6
+model_size_bytes: 11596
+model_uuid: m-9fb2734bf61c46fd813cdf940ad864e6
+prompts: null
+run_id: ee76bb55ec11415ba93d3d7ac6bb36e0
+utc_time_created: '2025-10-05 13:00:27.228275'

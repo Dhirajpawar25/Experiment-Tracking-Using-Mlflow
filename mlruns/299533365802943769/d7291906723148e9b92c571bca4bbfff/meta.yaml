@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/asus/100%20days%20Data%20Science/Mlops/Experiment-Tracking-Using-Mlflow/mlruns/299533365802943769/d7291906723148e9b92c571bca4bbfff/artifacts
+end_time: 1759740555765
+entry_point_name: ''
+experiment_id: '299533365802943769'
+lifecycle_stage: active
+run_id: d7291906723148e9b92c571bca4bbfff
+run_name: intrigued-fish-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759740555645
+status: 3
+tags: []
+user_id: asus

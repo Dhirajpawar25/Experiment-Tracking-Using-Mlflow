@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/517021902007088977/0cb06e4b892e4b3fab983a1d40e34829/artifacts
+end_time: 1759670792444
+entry_point_name: ''
+experiment_id: '517021902007088977'
+lifecycle_stage: active
+run_id: 0cb06e4b892e4b3fab983a1d40e34829
+run_name: sneaky-goat-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759670778876
+status: 3
+tags: []
+user_id: asus

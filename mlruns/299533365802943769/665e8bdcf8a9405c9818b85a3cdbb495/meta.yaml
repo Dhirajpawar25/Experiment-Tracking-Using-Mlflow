@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/asus/100%20days%20Data%20Science/Mlops/Experiment-Tracking-Using-Mlflow/mlruns/299533365802943769/665e8bdcf8a9405c9818b85a3cdbb495/artifacts
+end_time: 1759740555914
+entry_point_name: ''
+experiment_id: '299533365802943769'
+lifecycle_stage: active
+run_id: 665e8bdcf8a9405c9818b85a3cdbb495
+run_name: trusting-turtle-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759740555791
+status: 3
+tags: []
+user_id: asus

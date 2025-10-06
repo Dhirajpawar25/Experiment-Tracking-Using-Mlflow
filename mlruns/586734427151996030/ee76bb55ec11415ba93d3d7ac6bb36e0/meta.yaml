@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/asus/100%20days%20Data%20Science/Mlops/Experiment-Tracking-Using-Mlflow/mlruns/586734427151996030/ee76bb55ec11415ba93d3d7ac6bb36e0/artifacts
+end_time: 1759669242879
+entry_point_name: ''
+experiment_id: '586734427151996030'
+lifecycle_stage: active
+run_id: ee76bb55ec11415ba93d3d7ac6bb36e0
+run_name: spiffy-asp-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759669226064
+status: 3
+tags: []
+user_id: asus

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/asus/100%20days%20Data%20Science/Mlops/Experiment-Tracking-Using-Mlflow/mlruns/299533365802943769/8df6c9e3316148bb9d306d1dd7571a06/artifacts
+end_time: 1759740556040
+entry_point_name: ''
+experiment_id: '299533365802943769'
+lifecycle_stage: active
+run_id: 8df6c9e3316148bb9d306d1dd7571a06
+run_name: charming-dolphin-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759740555937
+status: 3
+tags: []
+user_id: asus
